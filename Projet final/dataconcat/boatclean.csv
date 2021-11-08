@@ -1,0 +1,34 @@
+,nom bateau,Numéro de voile,Anciens noms du bateau,Architecte,Chantier,Longueur,Largeur,Tirant d'eau,Déplacement (poids),Hauteur mât,Voile quille,Surface de voiles au près,annee_bateau,Foils
+0,NEWRESTARTFENTRES,fra 56,"['no way back', ' vento di sardegna']",vplp/verdier,persico marine,18.28,5.85,4.5,7.0,29.0,monotype,320,2015,foils
+1,PUREBESTWESTERN,fra 49,"['gitana eighty', ' synerciel', ' newrest-matmut']",bruce farr design,southern ocean marine (nouvelle zélande),18.28,5.8,4.5,9.0,28.0,acier forgé,280,2007,no foils
+2,TSEMYPLANET,fra72,"['famille mary-etamine du lys', ' initiatives coeur', ' le pingouin']",marc lombard,mag france,18.28,5.54,4.5,9.0,29.0,acier,260,1998,no foils
+3,MATRECOQIV,17,['safran 2 - des voiles et vous'],verdier - vplp,cdk technologies,18.28,5.8,4.5,8.0,29.0,acier mécano soudé,310,2015,foils
+4,CHARAL,08,[''],vplp,cdk technologies,18.28,5.85,4.5,8.0,29.0,acier,320,2018,foils
+5,LAMIECLINEARTISANSARTIPLE,fra 14,"['ecover3', ' président', ' gamesa', ' kilcullen voyager-team ireland']",owen clarke design llp - clay oliver,hakes marine - mer agitée,18.28,5.65,4.5,7.9,29.0,basculante avec vérin,300,2007,foils
+6,BUREAUVALLEE,18,['banque populaire viii'],verdier - vplp,cdk technologies,18.28,5.8,4.5,7.6,28.0,acier,300,2015,foils
+7,ONEPLANETONEOCEAN,esp 33,['kingfisher - educacion sin fronteras - forum maritim catala - one planet one ocean & pharmaton'],owen clarke design,martens yachts,18.28,5.3,4.5,8.9,26.0,acier,240,2000,no foils
+8,GROUPESTIN,fra 71,"['paprec-virbac2', ' estrella damm', ' we are water', ' la mie câline']",bruce farr yacht design,southern ocean marine (nouvelle-zélande),18.28,5.8,4.5,9.0,28.5,basculante sur vérin hydraulique,270,2007,no foils
+9,BANQUEPOPULAIREX,fra30,['macif - sma'],verdier - vplp,cdk - mer agitée,18.28,5.7,4.5,7.7,29.0,acier forgé,340,2011,no foils
+10,APIVIA,fra 79,[''],verdier,cdk technologies - merconcept,18.28,5.85,4.5,8.0,29.0,acier,350,2019,foils
+11,INITIATIVESCOEUR,fra109,['maître coq - banque populaire vii- foncia ii'],vplp - verdier,cdk technologies,18.28,5.7,4.5,7.8,27.0,acier forgé,300,2010,foils
+12,MERCI,69,"['foresight natural energy', ' maisonneuve']",lavanos,artech do brasil,18.28,5.6,4.5,8.5,29.0,acier,250,2005,no foils
+13,OMIAWATERFAMILY,fra09,"['spirit of yukoh', ' neutrogena', ' hugo boss', ' estrella damm', ' veolia environnement', ' bt']",bruce farr design,offshore challenge - cowes,18.28,5.85,4.5,8.0,29.0,acier forgé,300,2007,no foils
+14,PRB,fra 85,[''],verdier - vplp,cdk technologies,18.28,5.5,4.5,,27.4,acier mécano soudé,300,2010,foils
+15,COMPAGNIEDULITJILITI,fra83,"['delta dore', ' bureau vallée', ' vers un monde sans sida']",bruce farr design,jmv cherbourg,18.28,5.75,4.5,8.5,29.0,acier forgé,300,2006,no foils
+16,MEDALLIA,gbr77,"['armor lux', ' we are water', ' la fabrique']",pierre rolland,bernard stamm,18.28,5.7,4.5,9.0,29.0,carbone,300,1999,no foils
+17,SEAEXPLORERYACHTCLUBDEMONACO,16,"['edmond de rothschild', ' malizia - yacht club de monaco']",verdier - vplp,multiplast,18.28,5.7,4.5,7.6,29.0,acier,290,2015,foils
+18,STARK,fin222,"['aviva', ' gaes centros auditivos']",owen clarke design,hakes marine - wellington (nouvelle-zélande),18.28,5.8,4.5,8.5,28.0,acier,270,2007,no foils
+19,MACSF,fra 27,"['quéguiner', ' safran']",verdier - vplp,chantier naval de larros,18.28,5.6,4.5,7.7,27.0,acier,300,2007,foils
+20,YESWECAM,001,"['cheminées poujoulat', ' mare', ' maître coq', ' mapfre', ' foncia']",bruce farr design,cdk technologies,18.28,5.9,4.5,8.0,28.0,acier forgé,300,2007,no foils
+21,TIMEFOROCEANS,fra 92,"['hugo boss', ' energa', ' compagnie du lit-boulogne billancourt']",finot-conq design,neville hutton,18.28,5.84,4.5,8.5,28.0,monotype,300,2007,foils
+22,CAMPAGNEDEFRANCE,fra50,"['great america iv', ' mirabaud', ' temenos']",owen clarke,"southern ocean marine, tauranga",18.28,5.5,4.5,8.5,28.0,carbone,330,2006,no foils
+23,PRYSMIANGROUP,ita 34,['saint-michel - virbac'],vplp - verdier,multiplast,18.28,5.8,4.5,8.0,29.0,acier forgé,300,2015,foils
+24,LAFABRIQUE,sui07,"['brit air', ' votre nom autour du monde', ' macsf']",groupe finot-conq,multiplast,18.28,5.9,4.5,,27.0,carbone,290,2007,foils
+25,LINKEDOUT,,[''],verdier,persico,18.28,5.85,4.5,8.0,29.0,acier forgé,350,2019,foils
+26,GROUPEAPICIL,fra1000,"['comme un seul homme', ' dcns']",groupe finot-conq,multiplast,18.28,5.85,4.5,8.5,29.0,acier forgé,350,2008,no foils
+27,DMGMORIGLOBALONE,jpn 11,[''],vplp,multiplast,18.28,5.85,4.5,8.0,29.0,acier forgé,320,2019,foils
+28,ARKEAPAPREC,4,[''],juan kouyoumdjian,cdk technologies / assemblage,18.28,5.7,4.5,8.0,29.0,inox usiné,260,2019,foils
+29,VANDBMAYENNE,fra53,"['le souffle du nord', ' groupe bel']",verdier - vplp,"indiana yachting (scarlino, italie)",18.28,5.5,4.5,7.7,29.0,acier,365,2007,no foils
+30,HUGOBOSS,gbr 99,[''],vplp - alex thomson racing (led by pete hobson),carrington boats,18.28,5.4,4.5,7.7,29.0,acier forgé,330,2019,foils
+31,LOCCITANEENPROVENCE,2,[''],samuel manuard,black pepper©,18.28,5.5,4.5,7.8,28.0,acier forgé,270,2020,foils
+32,CORUMLEPARGNE,fra 6,[''],juan kouyoumdjian,cdk technologies - mer agitée,18.28,5.7,4.5,7.9,27.3,,270,2020,foils
